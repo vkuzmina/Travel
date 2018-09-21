@@ -1,4 +1,4 @@
-**
+#!/bin/bach
 
 **What’s your #1 tip for first timers visiting there?
 
